@@ -101,7 +101,7 @@ You will need to set a temporary password and then change it when you first logi
 ## How to Create an IBMid
 {: #how-to-create-an-ibmid}
 
-Note: If you already have an IBMid, please proceed to [How to Register for Maximo Application Suite Support](#how-to-register-for-mas-support)
+In order to register for product support and create cases (tickets) for MAS-SaaS, you will need an IBMid. Note: If you already have an IBMid, please proceed to [How to Register for Maximo Application Suite Support](#how-to-register-for-mas-support)
 
 
 1. To create an IBMid, click on the following link:
