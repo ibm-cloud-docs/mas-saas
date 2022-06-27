@@ -98,47 +98,6 @@ You will need to set a temporary password and then change it when you first logi
 
     ![MAS-MS-Password-Change-9](images/MAS-MS-Password-Change-9.png "MAS-MS-Password-Change-9"){: caption="Figure 9. MAS Login Set Password" caption-side="bottom"}
 
-## How to activate your environment(s)
-{: #how-to-activate-your-environments}
-
-To complete the activation of your Maximo Application Suite SaaS environment(s), you must first generate and download Maximo Application Suite license keys and provide them to the IBM MAS-SaaS Operations team via case ticket. Your license keys will then be applied to your MAS-SaaS environments to activate them. You will need to generate one (1) license key file per environment (for example one license key for PROD and one license key for TEST). IBM License Key Center login information and credentials are provided in a separate License Key Center welcome letter for your organization. You will receive separate letters for each environment.
-
-For further information on the IBM License Key Center, see the link below:
-
-https://www.ibm.com/support/pages/ibm-support-licensing-start-page
-
-To acquire your license keys:
-1. Locate your IBM License Key Center Welcome Letter(s)
-2. Login to the [IBM License Key Center](https://licensing.subscribenet.com/control/ibmr/login) using the credentials provided in the License Key Center Welcome Letter
-3. Select your company name
-4. Select the IBM AppPoints product line
-5. Select the IBM MAXIMO APPLICATION SUITE license key name
-6. Select the product or sales order for which to create the license key
-7. Enter the number of keys to generate. These correspond to the AppPoints that are allocated to the license key
-8. Provide the following Maximo Application Suite license server parameters. These are provided in your welcome letter:
-
-    | Parameter | Value (Example) |
-    | -------------- | -------------- |
-    | Version | IBM Maximo Application Suite App Point License |
-    | Configuration | Single License Server |
-    | Host ID Type | Ethernet Address (Windows, Linux, UNIX or Solaris) |
-    | Host ID | 99999xxx9x99 |
-    | Hostname | customerinstancename-rlks-0.rlks |
-    | Port | 27000 |
-    | Description | Environment Name |
-    {: caption="Table 1. MAS-MS License Key Parameter Examples" caption-side="bottom"}
-
-9. Download your license key(s)
-10. Open a case using the IBM Support Portal and upload the license key files to IBM by clicking the following link:
-
-    https://www.ibm.com/mysupport/s/?language=en_US
-
-    Note: to open a case, you must have an IBMid and have registered for Maximo Application Suite Support. After IBM receives your support case and attached license key(s), your environment will be activated and the case updated.
-
-For further information on AppPoints, see the link below:
-
-https://www.ibm.com/docs/en/mas86/8.6.0?topic=overview-apppoints
-
 ## How to Create an IBMid
 {: #how-to-create-an-ibmid}
 
