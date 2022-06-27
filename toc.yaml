@@ -1,0 +1,47 @@
+toc:
+  properties:
+    subcollection: mas-saas
+    category: internet_of_things
+    audience: service
+    href: /docs/mas-saas
+    product-page: https://www.ibm.com/products/maximo
+    path: mas-saas
+    label: Maximo Application Suite as a Service (MAS-SaaS)
+
+  entries:
+  - navgroup:
+      id: learn
+      topics:
+      - getting-started.md
+
+  - navgroup:
+      id: reference
+      topics:
+      - reference.md
+      - operations.md
+      - support.md
+      - architecture.md
+      - provisioning.md
+      - maintenance.md
+      - security.md
+      - backups-disaster-recovery.md
+      - migration.md
+      - limitations-exclusions.md
+      - communicationscenter.md
+
+
+  - navgroup:
+      id: help
+      topics:
+        - link:
+            label: Maximo Application Suite - IBM Documentation
+            href: https://www.ibm.com/docs/mas
+        - link:
+            label: Get an IBMid
+            href: https://myibm.ibm.com
+        - link:
+            label: IBM Support Portal
+            href: https://www.ibm.com/mysupport
+        - link:
+            label: IBM License Key Center Support
+            href: https://www.ibm.com/support/pages/ibm-support-licensing-start-page
